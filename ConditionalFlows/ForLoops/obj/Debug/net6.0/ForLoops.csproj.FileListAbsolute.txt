@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/bin/Debug/net6.0/ForLoops
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/bin/Debug/net6.0/ForLoops.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/bin/Debug/net6.0/ForLoops.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/bin/Debug/net6.0/ForLoops.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/bin/Debug/net6.0/ref/ForLoops.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/bin/Debug/net6.0/ForLoops.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/obj/Debug/net6.0/ForLoops.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/obj/Debug/net6.0/ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/obj/Debug/net6.0/ForLoops.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/obj/Debug/net6.0/ForLoops.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/obj/Debug/net6.0/ForLoops.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/obj/Debug/net6.0/ForLoops.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/obj/Debug/net6.0/ref/ForLoops.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/obj/Debug/net6.0/ForLoops.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ForLoops/obj/Debug/net6.0/ForLoops.genruntimeconfig.cache

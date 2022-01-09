@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOutParams
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOutParams.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOutParams.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOutParams.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/bin/Debug/net6.0/ref/RefAndOutParams.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOutParams.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/obj/Debug/net6.0/ref/RefAndOutParams.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.genruntimeconfig.cache

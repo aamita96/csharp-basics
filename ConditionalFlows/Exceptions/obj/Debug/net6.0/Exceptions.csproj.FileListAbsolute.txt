@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/bin/Debug/net6.0/Exceptions
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/bin/Debug/net6.0/Exceptions.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/bin/Debug/net6.0/Exceptions.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/bin/Debug/net6.0/Exceptions.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/bin/Debug/net6.0/ref/Exceptions.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/bin/Debug/net6.0/Exceptions.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/obj/Debug/net6.0/Exceptions.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/obj/Debug/net6.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/obj/Debug/net6.0/Exceptions.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/obj/Debug/net6.0/Exceptions.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/obj/Debug/net6.0/Exceptions.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/obj/Debug/net6.0/Exceptions.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/obj/Debug/net6.0/ref/Exceptions.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/obj/Debug/net6.0/Exceptions.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/Exceptions/obj/Debug/net6.0/Exceptions.genruntimeconfig.cache

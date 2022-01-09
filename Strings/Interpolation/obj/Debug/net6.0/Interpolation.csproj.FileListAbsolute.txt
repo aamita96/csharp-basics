@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/bin/Debug/net6.0/Interpolation
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/bin/Debug/net6.0/Interpolation.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/bin/Debug/net6.0/Interpolation.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/bin/Debug/net6.0/Interpolation.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/bin/Debug/net6.0/ref/Interpolation.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/bin/Debug/net6.0/Interpolation.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/obj/Debug/net6.0/Interpolation.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/obj/Debug/net6.0/Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/obj/Debug/net6.0/Interpolation.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/obj/Debug/net6.0/Interpolation.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/obj/Debug/net6.0/Interpolation.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/obj/Debug/net6.0/Interpolation.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/obj/Debug/net6.0/ref/Interpolation.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/obj/Debug/net6.0/Interpolation.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/Interpolation/obj/Debug/net6.0/Interpolation.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/obj/Debug/net6.0/StringRep.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/obj/Debug/net6.0/StringRep.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/obj/Debug/net6.0/StringRep.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/obj/Debug/net6.0/StringRep.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/obj/Debug/net6.0/StringRep.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/bin/Debug/net6.0/StringRep
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/bin/Debug/net6.0/StringRep.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/bin/Debug/net6.0/StringRep.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/bin/Debug/net6.0/StringRep.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/bin/Debug/net6.0/ref/StringRep.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/bin/Debug/net6.0/StringRep.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/obj/Debug/net6.0/StringRep.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/obj/Debug/net6.0/ref/StringRep.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/obj/Debug/net6.0/StringRep.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/StringRep/obj/Debug/net6.0/StringRep.genruntimeconfig.cache

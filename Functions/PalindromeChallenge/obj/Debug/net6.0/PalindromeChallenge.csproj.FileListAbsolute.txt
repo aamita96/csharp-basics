@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/bin/Debug/net6.0/PalindromeChallenge
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/bin/Debug/net6.0/PalindromeChallenge.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/bin/Debug/net6.0/PalindromeChallenge.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/bin/Debug/net6.0/PalindromeChallenge.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/bin/Debug/net6.0/ref/PalindromeChallenge.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/bin/Debug/net6.0/PalindromeChallenge.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/obj/Debug/net6.0/PalindromeChallenge.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/obj/Debug/net6.0/PalindromeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/obj/Debug/net6.0/PalindromeChallenge.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/obj/Debug/net6.0/PalindromeChallenge.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/obj/Debug/net6.0/PalindromeChallenge.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/obj/Debug/net6.0/PalindromeChallenge.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/obj/Debug/net6.0/ref/PalindromeChallenge.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/obj/Debug/net6.0/PalindromeChallenge.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/PalindromeChallenge/obj/Debug/net6.0/PalindromeChallenge.genruntimeconfig.cache

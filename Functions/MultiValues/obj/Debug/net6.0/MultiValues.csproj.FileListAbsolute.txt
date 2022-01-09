@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/bin/Debug/net6.0/MultiValues
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/bin/Debug/net6.0/MultiValues.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/bin/Debug/net6.0/MultiValues.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/bin/Debug/net6.0/MultiValues.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/bin/Debug/net6.0/ref/MultiValues.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/bin/Debug/net6.0/MultiValues.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/obj/Debug/net6.0/MultiValues.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/obj/Debug/net6.0/MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/obj/Debug/net6.0/MultiValues.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/obj/Debug/net6.0/MultiValues.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/obj/Debug/net6.0/MultiValues.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/obj/Debug/net6.0/MultiValues.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/obj/Debug/net6.0/ref/MultiValues.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/obj/Debug/net6.0/MultiValues.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/MultiValues/obj/Debug/net6.0/MultiValues.genruntimeconfig.cache

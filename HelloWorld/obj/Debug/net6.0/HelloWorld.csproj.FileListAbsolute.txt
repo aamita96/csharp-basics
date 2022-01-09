@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache

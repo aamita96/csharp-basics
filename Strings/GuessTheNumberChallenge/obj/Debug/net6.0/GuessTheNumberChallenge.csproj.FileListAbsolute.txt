@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/bin/Debug/net6.0/GuessTheNumberChallenge
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/bin/Debug/net6.0/GuessTheNumberChallenge.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/bin/Debug/net6.0/GuessTheNumberChallenge.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/bin/Debug/net6.0/GuessTheNumberChallenge.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/bin/Debug/net6.0/ref/GuessTheNumberChallenge.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/bin/Debug/net6.0/GuessTheNumberChallenge.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/obj/Debug/net6.0/GuessTheNumberChallenge.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/obj/Debug/net6.0/GuessTheNumberChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/obj/Debug/net6.0/GuessTheNumberChallenge.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/obj/Debug/net6.0/GuessTheNumberChallenge.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/obj/Debug/net6.0/GuessTheNumberChallenge.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/obj/Debug/net6.0/GuessTheNumberChallenge.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/obj/Debug/net6.0/ref/GuessTheNumberChallenge.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/obj/Debug/net6.0/GuessTheNumberChallenge.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Strings/GuessTheNumberChallenge/obj/Debug/net6.0/GuessTheNumberChallenge.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/obj/Debug/net6.0/BankAccountChallenge.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/obj/Debug/net6.0/BankAccountChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/obj/Debug/net6.0/BankAccountChallenge.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/obj/Debug/net6.0/BankAccountChallenge.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/obj/Debug/net6.0/BankAccountChallenge.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/bin/Debug/net6.0/BankAccountChallenge
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/bin/Debug/net6.0/BankAccountChallenge.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/bin/Debug/net6.0/BankAccountChallenge.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/bin/Debug/net6.0/BankAccountChallenge.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/bin/Debug/net6.0/ref/BankAccountChallenge.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/bin/Debug/net6.0/BankAccountChallenge.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/obj/Debug/net6.0/BankAccountChallenge.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/obj/Debug/net6.0/ref/BankAccountChallenge.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/obj/Debug/net6.0/BankAccountChallenge.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/BankAccountChallenge/obj/Debug/net6.0/BankAccountChallenge.genruntimeconfig.cache

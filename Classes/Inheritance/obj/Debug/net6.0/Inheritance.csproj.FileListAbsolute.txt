@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/bin/Debug/net6.0/Inheritance
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/bin/Debug/net6.0/Inheritance.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/bin/Debug/net6.0/Inheritance.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/bin/Debug/net6.0/Inheritance.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/bin/Debug/net6.0/ref/Inheritance.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/bin/Debug/net6.0/Inheritance.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/obj/Debug/net6.0/Inheritance.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/obj/Debug/net6.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/obj/Debug/net6.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/obj/Debug/net6.0/Inheritance.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/obj/Debug/net6.0/ref/Inheritance.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/obj/Debug/net6.0/Inheritance.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Inheritance/obj/Debug/net6.0/Inheritance.genruntimeconfig.cache

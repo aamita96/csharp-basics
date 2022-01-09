@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/bin/Debug/net6.0/DefaultParams
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/bin/Debug/net6.0/DefaultParams.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/bin/Debug/net6.0/DefaultParams.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/bin/Debug/net6.0/DefaultParams.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/bin/Debug/net6.0/ref/DefaultParams.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/bin/Debug/net6.0/DefaultParams.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/obj/Debug/net6.0/ref/DefaultParams.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.genruntimeconfig.cache

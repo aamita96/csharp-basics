@@ -1,0 +1,16 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/bin/Debug/net6.0/Comments
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/bin/Debug/net6.0/Comments.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/bin/Debug/net6.0/Comments.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/bin/Debug/net6.0/Comments.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/bin/Debug/net6.0/ref/Comments.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/bin/Debug/net6.0/Comments.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/bin/Debug/net6.0/Comments.xml
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/obj/Debug/net6.0/Comments.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/obj/Debug/net6.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/obj/Debug/net6.0/Comments.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/obj/Debug/net6.0/Comments.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/obj/Debug/net6.0/Comments.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/obj/Debug/net6.0/Comments.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/obj/Debug/net6.0/ref/Comments.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/obj/Debug/net6.0/Comments.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Comments/obj/Debug/net6.0/Comments.genruntimeconfig.cache

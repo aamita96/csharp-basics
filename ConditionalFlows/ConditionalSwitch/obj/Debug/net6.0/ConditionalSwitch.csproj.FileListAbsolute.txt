@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/obj/Debug/net6.0/ConditionalSwitch.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/obj/Debug/net6.0/ConditionalSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/obj/Debug/net6.0/ConditionalSwitch.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/obj/Debug/net6.0/ConditionalSwitch.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/obj/Debug/net6.0/ConditionalSwitch.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/bin/Debug/net6.0/ConditionalSwitch
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/bin/Debug/net6.0/ConditionalSwitch.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/bin/Debug/net6.0/ConditionalSwitch.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/bin/Debug/net6.0/ConditionalSwitch.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/bin/Debug/net6.0/ref/ConditionalSwitch.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/bin/Debug/net6.0/ConditionalSwitch.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/obj/Debug/net6.0/ConditionalSwitch.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/obj/Debug/net6.0/ref/ConditionalSwitch.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/obj/Debug/net6.0/ConditionalSwitch.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/ConditionalFlows/ConditionalSwitch/obj/Debug/net6.0/ConditionalSwitch.genruntimeconfig.cache

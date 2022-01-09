@@ -1,0 +1,15 @@
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/obj/Debug/net6.0/Modifiers.csproj.AssemblyReference.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/obj/Debug/net6.0/Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/obj/Debug/net6.0/Modifiers.AssemblyInfoInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/obj/Debug/net6.0/Modifiers.AssemblyInfo.cs
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/obj/Debug/net6.0/Modifiers.csproj.CoreCompileInputs.cache
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/bin/Debug/net6.0/Modifiers
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/bin/Debug/net6.0/Modifiers.deps.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/bin/Debug/net6.0/Modifiers.runtimeconfig.json
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/bin/Debug/net6.0/Modifiers.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/bin/Debug/net6.0/ref/Modifiers.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/bin/Debug/net6.0/Modifiers.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/obj/Debug/net6.0/Modifiers.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/obj/Debug/net6.0/ref/Modifiers.dll
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/obj/Debug/net6.0/Modifiers.pdb
+/home/bacancy/Documents/PractiseProjects/CSharp_Practise/Classes/Modifiers/obj/Debug/net6.0/Modifiers.genruntimeconfig.cache
